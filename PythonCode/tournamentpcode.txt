@@ -1,0 +1,92 @@
+Tournament Tracker Pseudo Code
+
+valid-number = False
+empty list for participants
+
+#startup
+def startup
+	Display Welcome Message
+	while walid number ==False
+		Ask for number of participants
+		if statement
+			check if number is a positive number
+			valid-number =True
+		else
+			display error message
+		Set number of participants
+		Display There are x number of participants
+
+#Main Menu
+def MainMenu
+	Display:
+		Participant Menu
+		================
+		1. Sign Up
+		2. Cancel Sign Up
+		3. View Participants
+		4. Save Changes
+		5. Exit
+	Ask Question What do you want to do (input values 1-5)
+	Store user input 
+	Redirect to choice
+
+#Sign up
+def signup
+	Display: Sign up info
+	Ask Person name
+	store name
+	Ask for desired slot
+	store slot number
+	if slot fill  [is Null or none]
+		error message
+		reprompt
+	else 
+		add name to list/array at slot user input
+		go back to main menu
+
+#Cancel Signup
+def Cancel
+	Display Participant Cancellation
+	Ask person name
+	store
+	Ask person slot
+	#check
+	if name in list[slot number]
+		make list[slot number null or none]
+		display person name cancelled from slot number
+		go back to main menu
+	else 
+		error message
+		reprompt question
+
+#View Participants
+def participants
+	Display 
+		View Participants
+		=================
+		Starting slot #[1-50]: 42
+
+		Starting Slot: Participant
+		
+		for loop slots 0-number of partiipants
+			print slot number: name \n
+
+#Save Changes
+def savechanges
+	Display save changes
+	Ask Save Question (Y/N):
+	if yes 
+		save
+
+#Exit
+def exit
+	Display Exit
+	Ask do you want to exit
+	if y
+		exit 
+		Display goodbye
+	else 
+		dont exit 
+	
+
+	

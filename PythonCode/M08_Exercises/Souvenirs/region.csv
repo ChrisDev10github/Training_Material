@@ -1,0 +1,84 @@
+RegionID,Name,CountryID
+1,Alpes-Maritimes,11
+2,Attica,13
+3,Bavaria,12
+4,Brandenburg,12
+5,Buenos Aires,1
+6,California,41
+7,Campania,17
+8,Capital,7
+9,Casablanca-Settat,25
+10,Catalonia,36
+11,Central Mongolia,24
+12,Central Russia,31
+13,Central Thailand,40
+14,Community of Madrid,36
+15,Diana,21
+16,East China,5
+17,East Java,15
+18,Echigo,18
+19,Florida,41
+20,Forlì-Cesena,17
+21,Gauteng,34
+22,Georgia,41
+23,Greater Cairo Regional Unit,8
+24,Gyeonggi,35
+25,Haafingar Hold,33
+26,Hamburg,12
+27,Haryana,14
+28,Havana,6
+29,Hebei,5
+30,Hesse,12
+31,Himalayas,26
+32,Hubei,5
+33,Ile-de-France,11
+34,Illinois,41
+35,Kanto,18
+36,Kostroma Oblast,31
+37,Kyoto,18
+38,La Habana,6
+39,Lancashire,9
+40,Lazio,17
+41,Lima,29
+42,Lombardy,17
+43,London,9
+44,Lothian,32
+45,Luxembourg,20
+46,Maharashtra,14
+47,Manyara,39
+48,Mazovia,30
+49,Minnesota,41
+50,Moscow Oblast,31
+51,Muscat,28
+52,Nairobi,19
+53,New South Wales,2
+54,New York,41
+55,North Island,27
+56,Ontario,4
+57,Peloponnese,13
+58,Qinghai,5
+59,Quebec,4
+60,Queensland,2
+61,Quintana Roo,23
+62,Riften,33
+63,Riften Docks,33
+64,Rio de Janeiro,3
+65,Selangor,22
+66,Shalidor's Maze,33
+67,Summoners Rift,38
+68,Tel Aviv,16
+69,Texas,41
+70,Thieves' Guild,33
+71,Tuscany,17
+72,Ulaanbaatar,24
+73,Utah,41
+74,Uusimaa,10
+75,Valley of Mexico,23
+76,Vatican City,42
+77,Veneto,17
+78,Victoria,2
+79,Washington DC,41
+80,Western Australia,2
+81,Western Cape,34
+82,Western Province,37
+83,Wisconsin,41

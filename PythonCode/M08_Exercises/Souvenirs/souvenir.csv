@@ -1,0 +1,148 @@
+ItemID,LocationID,ItemDescription,DateObtained,Price,Weight,OwnerID,CategoryID,CityID,Name
+1,9,,2019/02/15,7.50,12,3,7,,Grizzly Bear Mug
+2,9,,2019/02/17,9.99,20,3,7,,Snowy Mountain Mug
+3,10,,2019/03/05,12.99,16,3,7,,Lobster Mug
+4,11,,2019/04/18,10.25,16,3,7,,Sea Lion Mug
+5,12,,2019/05/07,6.91,20,3,7,,Coral Reef Mug
+6,13,,2019/06/15,8.99,12,3,7,,Ocean Life Mug
+7,14,,2019/07/21,9.75,16,3,7,,Landscape Mug
+8,15,,2019/08/01,13.25,24,3,7,,Bird Mug
+9,16,,2019/09/15,11.40,20,3,7,,Dunes Mug
+10,17,,2019/10/15,19.99,12,3,7,,Skier Mug
+11,18,,2019/11/09,14.25,16,3,7,,Desert Mug
+12,9,,2019/11/27,12.99,20,3,7,,Mountain City Mug
+13,19,,2019/12/04,12.50,12,3,7,,Joshua Tree Mug
+14,20,,2020/01/15,11.99,20,3,7,,River View Mug
+15,21,,2020/02/13,10.75,16,3,7,,Hot Springs Mug
+16,22,,2020/03/15,10.99,12,3,7,,Cave Bat Mug
+17,17,,2021/01/11,15.00,12,3,7,,Cowboy Mug
+18,20,,2021/02/28,12.25,20,3,7,,Buffalo Mug
+19,18,,2021/03/26,9.95,16,3,7,,Gila Monster Mug
+20,12,,2021/05/08,25.00,24,3,7,,Pink Mug
+21,,"Very good dirt. Solid, reliable.",2007/03/21,0.00,4,5,6,60,Central Park-dirt
+22,,Dry and depressing,2009/08/01,0.00,4,5,6,39,Hollywood Bowl-dirt
+23,,Tastes rich in Oxygen,2010/03/11,0.00,4,5,6,18,Burham Park-dirt
+24,,Unimagineable feeling between the toes,2015/12/25,0.00,4,5,6,14,Playa Tortugas-sand
+25,,High in phosphates,2018/04/22,0.00,4,5,6,73,Bukhansan National Park-dirt
+26,,"There's something fishy in here, got sick after tasting it…",2019/09/28,0.00,4,5,6,89,Wuhan Institute of Virology-dirt
+27,,Very soft,2020/06/12,0.00,4,5,6,78,TEL AVIV BEACH-sand
+28,,Smallest dirt on earth. Pathetic,2020/08/20,0.00,4,5,6,40,Bourscheid Neige Luges-dirt
+29,,It's coarse. Gets everywhere. I don't like it,2020/09/20,0.00,4,5,6,16,Lagoon Beach-sand
+30,,Tastes like they have never won a war,2021/02/20,0.00,4,5,6,66,Champ de Mars-dirt
+31,,"Very soft, great color",2021/07/20,0.00,4,5,6,69,Playa del Carmen-sand
+32,,"Medium coarseness, tons of shells",2021/12/20,0.00,4,5,6,69,Playa Punta Esmeralda-sand
+33,,Looks very rich. I got a worm in here!,2021/02/20,0.00,4,5,6,38,Hyde Park-dirt
+34,,BASIC,2021/01/20,0.00,4,5,6,61,National Park-dirt
+35,,Neat.,2021/03/20,0.00,4,5,6,84,Promenade des Anglais-sand
+36,,Lots of critters and life. Kinda stinky,2017/08/20,0.00,4,5,6,19,Hikkaduwa Beach-sand
+37,,Very Nice,2014/01/20,0.00,4,5,6,56,Al Bustan Beach-sand
+38,,Exotic,2000/06/20,0.00,4,5,6,2,Palm Beach-sand
+39,,Better dirt than expected,2004/09/20,0.00,4,5,6,46,Parco delle fonti-dirt
+40,,"Hints of nostalgia from the great days of the USSR; however, a bit stale",2018/07/20,0.00,4,5,6,42,Park Lenina-dirt
+41,,Common white quartz found in Utah,2020/06/01,0.00,,4,6,8,Quartz rock
+42,,Bronze NYC ornament bought from visitors center,2019/12/30,0.00,,4,8,60,NYC bronze ornament
+43,,Souvenir shop item commemorating the second ammendment.,2021/01/02,0.00,,4,11,21,Texas Pen
+44,,Cute shot glass from Key West Florida,2020/12/25,0.00,,4,7,32,I Got Tipsy In Key West shot glass
+45,,Sick T-Shirt from a wild PCB spring break back in '99,1999/04/27,0.00,,4,4,65,PCB T-Shirt
+46,,Raise hell and praise Dale,2008/02/05,0.00,,4,4,22,Daytona 500 Hat
+47,,9/11 Memorial bronze ornament,2020/03/14,0.00,,4,8,88,9/11 bronze ornament
+48,,Started a squirt gun fight that ended the Cuban Missile Crisis,1962/08/20,0.00,,4,12,27,Super Soaker
+49,,Video game bought on Steam,2019/07/20,0.00,,4,12,,Oxygen Not Included
+50,,Video game bought on Steam,2019/05/01,0.00,,4,12,,Stardew Valley
+51,,Pencil case with a panda hugging it. ,2014/07/01,0.00,,4,11,9,Panda Pencil Holder
+52,,Pokemon Card,2010/06/10,0.00,,4,12,51,Shiny Limited Edition Charzard
+53,,Loot gained from besting pirates. ,2008/08/07,0.00,,4,6,44,Diamonds
+54,,Blue Swim Suit from Toronto water park,2019/01/01,0.00,,4,4,83,Swim Suit
+55,,Taxidermy tazmanian devil,2000/06/13,0.00,,4,8,44,Taxidermy Tazmanian Devil
+56,,Rare green crystal,2011/08/15,0.00,,4,6,44,Emerald
+57,,Orange crystal found at Utah's Topaz Mountain,1982/03/11,0.00,,4,6,82,Topaz
+58,,Rare red crystal,1937/02/25,0.00,,4,6,44,Ruby
+59,,The Chef's favorite knife,1998/07/11,0.00,,4,7,38,Gordon Ramsey's Filet Knife
+60,,Rian Johnson's Creativity that he lost before he directed the Last Jedi,2016/05/20,0.00,,4,2,30,Rian Johnson's Creativity
+61,,Commemorative replica of the first President's fabled wooden teeth,2003/03/03,0.00,,4,2,88,Replica George Washington Wood Teeth
+62,,Rarest and most expensive crystal,2011/07/11,0.00,,4,6,8,Red Beryl
+63,,Powerful shield belonging to the guard order of the town of Solitude,2014/05/19,0.00,,4,2,75,Shield of Solitude
+64,,They said it didn't exist,2021/02/26,0.00,,4,8,50,LoL Player's Sanity
+65,,Helmet that provides elemental resistance,2010/06/23,0.00,,4,4,35,Ancient Helmet of the Unburned
+66,,The prized jewel of France worn by Beyonce,2009/03/30,0.00,,4,6,66,The Pink Panther
+67,,Item invented by the Dwemer to store culture's knowledge,2011/07/12,0.00,,4,2,70,Dwemer Lexicon
+68,,The hat of Rasputin (from the song),2011/11/11,0.00,,4,4,53,Rasputin's Hat
+69,,Attack damage and critical strike,2021/05/18,0.00,,4,2,79,Infinity Edge 
+70,,Unbreakable lockpick,2012/10/30,0.00,,4,11,80,Skeleton Key
+71,,Hitler's iconic mustache,1940/04/30,0.00,,4,2,26,Hitler's Mustache
+72,,I stole this from Tom Hanks,2000/06/14,0.00,,4,2,85,Da Vinci's Code
+73,,A lot of attack damage. ,2021/05/18,0.00,,4,2,79,BF Sword
+74,,Mural painting by Italian artist Leonardo da Vinci,1490/04/17,0.00,,4,1,49,The Last Supper
+75,,Portrait painting by Italian artist Leonardo da Vinci,1507/05/20,0.00,,4,1,24,Mona Lisa
+76,,Limestone sculpure,2020/09/12,0.00,,4,1,13,Sphinx
+77,,Wrought-iron lattice tower,1887/01/28,0.00,,4,9,66,Eiffle Tower Postcard
+78,,Tallest mountain in the world,2003/02/14,0.00,,4,9,29,Mount Everest Postcard
+79,,,2007/01/10,15.00,6.70,1,4,62,Tenugui Cotton Cloth Rice Grains
+80,,,2008/06/18,20.80,19.36,1,12,73,12'' Ancient Traditional Korea Hanbok Doll
+81,1,,2019/12/23,29.95,13.40,1,8,64,Resort Snowglobe
+82,2,,2020/12/02,50.00,5.00,1,8,59,Iron Standing Dog
+83,2,,2020/12/02,40.00,10.00,1,1,4,Crafts Enameled Cockatoo
+84,3,,2013/08/23,25.00,5.00,1,1,43,Hand Painted Rose Flower
+85,4,,2016/05/15,15.00,6.88,1,1,87,Hand Painted Enameled Telephone
+86,5,,2018/05/18,22.00,8.00,1,8,83,Cast Iron Door Stop
+87,,      ,2015/05/08,22.95,10.00,1,5,66,Organic Maple Syrup
+88,6,,2000/01/01,9.99,5.00,1,1,36,Eiffel Tower Model
+89,4,,2018/05/18,10.00,6.00,1,1,88,Metal Jewelry Box
+90,,,2002/08/03,49.99,20.00,1,4,45,Alpaca Poncho
+91,4,,2020/08/05,20.00,18.00,1,1,57,Classic Vintage Antique Heart Shape Jewelry Box
+92,8,,2016/09/23,19.99,5.00,1,4,9,Chicago Cubs T-Shirt
+93,7,,1999/12/24,35.99,15.00,1,1,18,Decorative African Wood Mask 
+94,,,2016/07/04,2.00,1.00,1,8,88,American Flag
+95,,,2007/07/07,8.95,4.20,1,7,10,Shot Glass
+96,,,2021/05/18,41.16,8.47,1,2,45,Vintage Maori Carving Intricate Patu Club & Long House Box Polynesian Art
+97,,,2021/12/25,1800000.00,17637.00,1,2,9,"80"" Rare 100% Purple Natural Emerald Jadeite Jade Dragon"
+98,,I got this because it was so weird that they sell Disney shotglasses! Does Mickey Mouse do shots?,2021/04/02,25.99,2.5,2,7,60,Mickey Mouse Shotglass
+99,,Does the Queen use this to stir her tea?,2020/01/05,50.00,4,2,7,38,Gold Spoon
+100,,"The color is so intense, I love it!",1998/06/12,45.00,8,2,4,55,Fancy Scarf
+101,,"I found it on the beach, it's so nice and round!",2001/02/15,0.00,4,2,6,7,Smooth Rock
+102,,"Yeah, sure, maybe it's basic.",2005/12/17,14.99,2,2,7,66,Eiffel Tower Shotglass
+103,,Someone made this by hand! It's so nice and it smells like leather.,1999/11/23,35.00,20,2,3,77,Hand-bound sketchbook
+104,,"It's heavy, but it's cool to drink out of!",2013/10/30,17.99,5,2,7,20,Stone Shotglass
+105,,Why is it shaped like that? It looks so strange but so cool!,2012/05/24,12.99,6,2,7,28,Weird spoon
+106,,It really is a nice skyline,2015/07/15,2.99,1,2,9,39,City postcard
+107,,"It fits perfectly in the palm of my hand, and the stripes are so cute!",2021/01/08,0.00,1.5,2,8,48,Red scallop shell
+108,,"I think the top of the drum is made from papayrus, it sounds really awesome!",2012/06/28,60.00,34,2,8,13,Egyptian Drum
+109,,These drawings were handmade! The ink strokes are so beautiful,2007/12/30,29.99,18,2,3,9,Ink Artbook
+110,,Don't judge me! I really like this one. The characters are cute AND deep.,2010/01/05,15.99,21,2,3,81,Manga
+111,,"It's so dark, and so smooth!",1995/11/04,0.00,5,2,6,73,Black Rock
+112,,The view is so unbelievable... the sky really looked like that in person!,2007/08/01,1.00,0.75,2,9,6,Sunset Postcard
+113,,"It's so beautiful, and the patterns were sewn by hand!",2014/06/14,120.00,86,2,4,54,Sari
+114,,They're so tall but so beautiful! I want to live in a city like this,2011/04/05,0.80,1,2,9,33,Petronas Towers Postcard
+115,,"My cousin bought this for me when I visited because she wouldn't stop roasting me for being a tourist.... it's ironic, I promise.",2019/01/18,12.99,3,2,7,37,Union Jack Shotglass
+116,,"The inside of the shell is iridescent, like a pearl. I wonder what this shell comes from.",2018/03/25,0.00,2,2,8,68,Shiny Shell
+117,,Who doesn't love a kangaroo? Aww....,2017/02/23,1.20,1,2,9,5,Kangaroo Postcard
+118,,They say they made this with the same methods that Ancient Romans used. It's that why it's so lopsided?,2001/06/06,22.99,3,2,7,72,Ancient Roman Spoon
+119,,It's a little flute made of wood! The sound is deeper than I was expecting.,2002/10/19,45.50,15,2,8,86,Zuffolo
+120,,"I never wear it because I'm too afraid of damaging the beadwork, but it looks so elegant and expensive.",2003/09/12,60.00,5,2,4,58,Blouse
+121,,Sometimes I fill this up with maple syrup to pour on my pancakes.... is that a disrespectful stereotype?,2004/10/27,9.50,4,2,7,83,Maple Leaf Shotglass
+122,,I love books with nature photographs... I didn't know moose (meese? mooses?) were so BIG!,2008/05/15,17.99,19,2,3,52,Moose Photographs
+123,,I'm going to learn how to make borsct! It's gonna happen!,2005/12/13,15.60,17,2,3,53,Cookbook
+124,,These are honestly the best aviators I've ever worn. I'm gonna wear them until they break!,2021/01/18,14.99,6,2,4,23,Sunglasses
+125,,"It was so beautiful to see the bridge all lit up for Christmas, I'll never forget it!",2013/12/25,1.25,1,2,9,11,Story Bridge
+126,,This was such an incredible read.,1999/12/31,14.69,22,2,3,31,Long Walk to Freedom
+127,,It's so soft and light. It really helped to keep me cool while I was visiting.,2011/06/16,35.99,7,2,4,17,Headscarf
+128,,Who knew they made special spoons for eating olives? Not me!,2006/07/08,22.25,6,2,7,3,Olive Spoon
+129,,"Picture of the famous Patras Carnival, one of the biggest in all of Europe!",2016/04/15,0.99,1,2,9,67,Carnival Postcard
+130,,An overview of the designs used in the old structures and buildings in Paris.,2015/04/28,49.99,20,2,3,66,Architecture Book
+131,,A picture of the beautiful beach at Cannes!,2014/11/11,1.99,1,2,9,15,Beach Postcard
+132,,"Has ""I <3 Chicago"" on the front.",2000/01/01,12.99,5,2,4,18,Tourist Shirt
+133,,Very helpful for my algebra homework!,1998/08/19,99.99,8,2,8,21,TI-89
+134,,"Wow, it's made from crystalized lava!",2014/08/13,18.99,12,2,6,1,Obsidian
+135,,Now I have something to wear when my German inlaws invite me to Oktoberfest.,1997/02/26,69.99,10,2,4,25,Dirndl
+136,,A classic clamshell.,2000/04/19,0.00,3.5,2,8,41,Clamshell
+137,,A book about the life of one of Brazil's most iconic pop artists of the 20th century.,2005/09/01,16.49,9,2,3,71,Jorge Ben Jor Autobiography
+138,,He would be so proud.,2021/09/21,12.29,2,2,7,71,Cristo Redentor Shotglass
+139,,"Authentic and cozy, just what I always wanted",2016/10/10,42.00,24,2,4,12,Poncho
+140,,A picture of a neighborhood with shikumen architecture.,2020/09/10,2.50,1,2,9,74,Shikumen Postcard
+141,,"It was really expensive and I don't know how to play it, but it's super cool.",2001/01/25,1640.00,36,2,8,34,Shamisen
+142,,For portioning spices like sambal,2005/10/17,6.00,3,2,7,76,Small Wooden Spoon
+143,,I asked the bookstore clerk what they recommended and they gave me this.,2004/11/22,1.34,5,2,3,47,Like Water for Chocolate
+144,,I think the picture it too heavily photoshopped.,2018/07/02,2.99,1,2,9,14,Beach Postcard
+145,,Some impressionist art on a postcard from an Minneapolis artist.,2003/09/06,5.99,1,2,9,51,Minneapolis Institute of Art Postcard
+146,,Bought from an antique shop. Good for bashing rats,2005/11/15,17.99,12,2,7,38,Old Pewter Spoon
+147,,"I found one half of a large shell, walked a few meters, then found the other half and now keep them sitting next to each other",2001/03/30,0.00,16,2,8,61,Chiton Shell
